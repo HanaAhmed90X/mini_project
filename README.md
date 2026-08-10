@@ -1,4 +1,4 @@
-the last visuale that did not want to be moved in the codes!
+the last visual that didn't want to be moved in the codes!
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/9f5afc09-2f12-44f8-ba14-7a4fa4ec63f2" />
 
 
